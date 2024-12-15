@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
+  <img src="https://medium.com/upskillie/crafting-your-github-profile-d7d4ce3f9b91" height="200"/>
 </p>
 <br>
 
