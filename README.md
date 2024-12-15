@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://medium.com/upskillie/crafting-your-github-profile-d7d4ce3f9b91" height="200"/>
-</p>
 <br>
 
  <p align="center">
