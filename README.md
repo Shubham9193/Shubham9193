@@ -11,7 +11,7 @@
 <h3 align="center">ENGINEER (SRE) </h3>
 <p align="center">
 <a href="https://www.hackerrank.com/profile/9193_shubham_ja1" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_ovindu" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/shubham-jain-13b3b984/" target="blank"><img align="center" src="[https://www.iconfinder.com/icons/317750/linkedin_icon](https://www.freepik.com/premium-vector/square-linkedin-logo-isolated-white-background_37081128.htm" alt="lin_ovindu" height="30" width="40" /></a>  
+<a href="https://www.linkedin.com/in/shubham-jain-13b3b984/" target="blank"><img align="center" src="https://www.freepik.com/premium-vector/square-linkedin-logo-isolated-white-background_37081128.htm" alt="lin_ovindu" height="30" width="40" /></a>  
  <a href = "mailto: 9193.shubham.jain@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
 </p>
